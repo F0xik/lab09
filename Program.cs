@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Введите количество векторов:");
+﻿Console.WriteLine("Введите количество вершин:");
 int vector = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите количество вершин:");
+Console.WriteLine("Введите количество ребер:");
 int top = Convert.ToInt32(Console.ReadLine());
 Dictionary <int, List<int>> dictionary = new Dictionary<int, List<int>>();
 for (int i = 1; i < vector + 1; i++) { dictionary.Add(i, new List<int>()); }

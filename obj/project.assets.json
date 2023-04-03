@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project c++\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectUniqueName": "C:\\Users\\tanas\\Desktop\\lab10\\ConsoleApp12.csproj",
       "projectName": "ConsoleApp12",
-      "projectPath": "D:\\project c++\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectPath": "C:\\Users\\tanas\\Desktop\\lab10\\ConsoleApp12.csproj",
       "packagesPath": "C:\\Users\\tanas\\.nuget\\packages\\",
-      "outputPath": "D:\\project c++\\ConsoleApp12\\ConsoleApp12\\obj\\",
+      "outputPath": "C:\\Users\\tanas\\Desktop\\lab10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tanas\\AppData\\Roaming\\NuGet\\NuGet.Config",
